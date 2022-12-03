@@ -1,0 +1,15 @@
+*.toolbox/.project
+*.toolbox/.settings
+*.toolbox/model
+*.toolbox/*aux
+*.toolbox/*.log
+*.toolbox/*.pdf
+*.toolbox/*.pmap
+*.toolbox/*.tex
+*.toolbox/*__*SnapShot*.launch
+*.toolbox/**/*.tla
+*.toolbox/**/*.out
+*.toolbox/**/MC.cfg
+*.pdf
+*.old
+
